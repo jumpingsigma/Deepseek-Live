@@ -14,3 +14,8 @@ ASR文字转写、TTS语音转换、RAG检索都在你的本机进行，只有LL
 
 本项目纯粹出于个人兴趣开发。命名为 Deepseek-live，仅因为通过AI Agent与传统模型进行实时交互方面 Deepseek 具有代表性，与 Deepseek 官方团队绝无任何隶属关系。
 本人分享这个项目只是为了学习和交流技术。使用者拿它干嘛、如何改造、在什么地方用，与本人完全没有任何关系。
+
+# GetStarted
+you need Python3.12 conda environment(or py3.12 .venv)
+you may need to download a ffmpeg-win-x86_64-v7.1.exe
+activate your py3.12 environment then run deepseeklive-main.py
