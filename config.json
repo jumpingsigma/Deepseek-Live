@@ -1,0 +1,13 @@
+{
+    "api_key": "",
+    "gemini_api_key": "",
+    "deepseek_api_key": "",
+    "qwen_api_key": "",
+    "model_type": "deepseek",
+    "model_name": "deepseek-v4-flash",
+    "embedding_model": "Chroma-Default",
+    "listening_mode": "本机系统声音(PC)",
+    "chroma_collection": "0616opsdb",
+    "distance_threshold": 1.0,
+    "rag_weight": 0.3781094527363184
+}
